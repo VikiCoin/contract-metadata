@@ -1,4 +1,11 @@
 {
+  "0x7088a2116e211c860b35db5c18515627c5964a07":{
+    "name": "VikiCoin",
+    "logo": "VikiCoin_logo.png",
+    "erc20": true,
+    "symbol": "VIKI",
+    "decimals": 18
+  },
   "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9":{
     "name": "Arianee",
     "logo": "aria20.svg",
